@@ -1,0 +1,1002 @@
+[
+ {
+  "question": "What category does the above image belong to?",
+  "answer": "alligator lizard.",
+  "image": "./data/imagenet1k/train/n01689811/n01689811_3815.JPEG"
+ },
+ {
+  "question": "What category does the above image belong to?",
+  "answer": "rooster.",
+  "image": "./data/imagenet1k/train/n01514668/n01514668_12859.JPEG"
+ },
+ {
+  "question": "What category does the above image belong to?",
+  "answer": "sulphur-crested cockatoo.",
+  "image": "./data/imagenet1k/train/n01819313/n01819313_1305.JPEG"
+ },
+ {
+  "question": "What category does the above image belong to?",
+  "answer": "great white shark.",
+  "image": "./data/imagenet1k/train/n01484850/n01484850_23289.JPEG"
+ },
+ {
+  "question": "What category does the above image belong to?",
+  "answer": "sea snake.",
+  "image": "./data/imagenet1k/train/n01751748/n01751748_7284.JPEG"
+ },
+ {
+  "question": "What category does the above image belong to?",
+  "answer": "electric ray.",
+  "image": "./data/imagenet1k/train/n01496331/n01496331_5292.JPEG"
+ },
+ {
+  "question": "What category does the above image belong to?",
+  "answer": "junco.",
+  "image": "./data/imagenet1k/train/n01534433/n01534433_6927.JPEG"
+ },
+ {
+  "question": "What category does the above image belong to?",
+  "answer": "great grey owl.",
+  "image": "./data/imagenet1k/train/n01622779/n01622779_950.JPEG"
+ },
+ {
+  "question": "What category does the above image belong to?",
+  "answer": "banded gecko.",
+  "image": "./data/imagenet1k/train/n01675722/n01675722_1803.JPEG"
+ },
+ {
+  "question": "What category does the above image belong to?",
+  "answer": "jacamar.",
+  "image": "./data/imagenet1k/train/n01843065/n01843065_3746.JPEG"
+ },
+ {
+  "question": "What category does the above image belong to?",
+  "answer": "ruffed grouse.",
+  "image": "./data/imagenet1k/train/n01797886/n01797886_12944.JPEG"
+ },
+ {
+  "question": "What category does the above image belong to?",
+  "answer": "worm snake.",
+  "image": "./data/imagenet1k/train/n01728572/n01728572_11335.JPEG"
+ },
+ {
+  "question": "What category does the above image belong to?",
+  "answer": "yellow garden spider.",
+  "image": "./data/imagenet1k/train/n01773157/n01773157_1653.JPEG"
+ },
+ {
+  "question": "What category does the above image belong to?",
+  "answer": "peafowl.",
+  "image": "./data/imagenet1k/train/n01806143/n01806143_4490.JPEG"
+ },
+ {
+  "question": "What category does the above image belong to?",
+  "answer": "vulture.",
+  "image": "./data/imagenet1k/train/n01616318/n01616318_147.JPEG"
+ },
+ {
+  "question": "What category does the above image belong to?",
+  "answer": "african grey parrot.",
+  "image": "./data/imagenet1k/train/n01817953/n01817953_9437.JPEG"
+ },
+ {
+  "question": "What category does the above image belong to?",
+  "answer": "hen.",
+  "image": "./data/imagenet1k/train/n01514859/n01514859_6977.JPEG"
+ },
+ {
+  "question": "What category does the above image belong to?",
+  "answer": "hammerhead shark.",
+  "image": "./data/imagenet1k/train/n01494475/n01494475_6867.JPEG"
+ },
+ {
+  "question": "What category does the above image belong to?",
+  "answer": "eastern hog-nosed snake.",
+  "image": "./data/imagenet1k/train/n01729322/n01729322_6213.JPEG"
+ },
+ {
+  "question": "What category does the above image belong to?",
+  "answer": "goldfish.",
+  "image": "./data/imagenet1k/train/n01443537/n01443537_20359.JPEG"
+ },
+ {
+  "question": "What category does the above image belong to?",
+  "answer": "box turtle.",
+  "image": "./data/imagenet1k/train/n01669191/n01669191_9501.JPEG"
+ },
+ {
+  "question": "What category does the above image belong to?",
+  "answer": "wolf spider.",
+  "image": "./data/imagenet1k/train/n01775062/n01775062_1393.JPEG"
+ },
+ {
+  "question": "What category does the above image belong to?",
+  "answer": "spotted salamander.",
+  "image": "./data/imagenet1k/train/n01632458/n01632458_5826.JPEG"
+ },
+ {
+  "question": "What category does the above image belong to?",
+  "answer": "chameleon.",
+  "image": "./data/imagenet1k/train/n01694178/n01694178_7636.JPEG"
+ },
+ {
+  "question": "What category does the above image belong to?",
+  "answer": "European garden spider.",
+  "image": "./data/imagenet1k/train/n01773797/n01773797_8623.JPEG"
+ },
+ {
+  "question": "What category does the above image belong to?",
+  "answer": "tarantula.",
+  "image": "./data/imagenet1k/train/n01774750/n01774750_9467.JPEG"
+ },
+ {
+  "question": "What category does the above image belong to?",
+  "answer": "night snake.",
+  "image": "./data/imagenet1k/train/n01740131/n01740131_3580.JPEG"
+ },
+ {
+  "question": "What category does the above image belong to?",
+  "answer": "great white shark.",
+  "image": "./data/imagenet1k/train/n01484850/n01484850_16832.JPEG"
+ },
+ {
+  "question": "What category does the above image belong to?",
+  "answer": "night snake.",
+  "image": "./data/imagenet1k/train/n01740131/n01740131_21364.JPEG"
+ },
+ {
+  "question": "What category does the above image belong to?",
+  "answer": "Komodo dragon.",
+  "image": "./data/imagenet1k/train/n01695060/n01695060_8159.JPEG"
+ },
+ {
+  "question": "What category does the above image belong to?",
+  "answer": "European green lizard.",
+  "image": "./data/imagenet1k/train/n01693334/n01693334_22546.JPEG"
+ },
+ {
+  "question": "What category does the above image belong to?",
+  "answer": "tiger shark.",
+  "image": "./data/imagenet1k/train/n01491361/n01491361_6718.JPEG"
+ },
+ {
+  "question": "What category does the above image belong to?",
+  "answer": "loggerhead sea turtle.",
+  "image": "./data/imagenet1k/train/n01664065/n01664065_18010.JPEG"
+ },
+ {
+  "question": "What category does the above image belong to?",
+  "answer": "hummingbird.",
+  "image": "./data/imagenet1k/train/n01833805/n01833805_8558.JPEG"
+ },
+ {
+  "question": "What category does the above image belong to?",
+  "answer": "tree frog.",
+  "image": "./data/imagenet1k/train/n01644373/n01644373_15916.JPEG"
+ },
+ {
+  "question": "What category does the above image belong to?",
+  "answer": "goose.",
+  "image": "./data/imagenet1k/train/n01855672/n01855672_38647.JPEG"
+ },
+ {
+  "question": "What category does the above image belong to?",
+  "answer": "brambling.",
+  "image": "./data/imagenet1k/train/n01530575/n01530575_40062.JPEG"
+ },
+ {
+  "question": "What category does the above image belong to?",
+  "answer": "desert grassland whiptail lizard.",
+  "image": "./data/imagenet1k/train/n01685808/n01685808_704.JPEG"
+ },
+ {
+  "question": "What category does the above image belong to?",
+  "answer": "magpie.",
+  "image": "./data/imagenet1k/train/n01582220/n01582220_4085.JPEG"
+ },
+ {
+  "question": "What category does the above image belong to?",
+  "answer": "American bullfrog.",
+  "image": "./data/imagenet1k/train/n01641577/n01641577_6142.JPEG"
+ },
+ {
+  "question": "What category does the above image belong to?",
+  "answer": "loggerhead sea turtle.",
+  "image": "./data/imagenet1k/train/n01664065/n01664065_9981.JPEG"
+ },
+ {
+  "question": "What category does the above image belong to?",
+  "answer": "European green lizard.",
+  "image": "./data/imagenet1k/train/n01693334/n01693334_16451.JPEG"
+ },
+ {
+  "question": "What category does the above image belong to?",
+  "answer": "scorpion.",
+  "image": "./data/imagenet1k/train/n01770393/n01770393_8459.JPEG"
+ },
+ {
+  "question": "What category does the above image belong to?",
+  "answer": "coucal.",
+  "image": "./data/imagenet1k/train/n01824575/n01824575_8185.JPEG"
+ },
+ {
+  "question": "What category does the above image belong to?",
+  "answer": "stingray.",
+  "image": "./data/imagenet1k/train/n01498041/n01498041_10284.JPEG"
+ },
+ {
+  "question": "What category does the above image belong to?",
+  "answer": "hornbill.",
+  "image": "./data/imagenet1k/train/n01829413/n01829413_7834.JPEG"
+ },
+ {
+  "question": "What category does the above image belong to?",
+  "answer": "partridge.",
+  "image": "./data/imagenet1k/train/n01807496/n01807496_22983.JPEG"
+ },
+ {
+  "question": "What category does the above image belong to?",
+  "answer": "tick.",
+  "image": "./data/imagenet1k/train/n01776313/n01776313_27272.JPEG"
+ },
+ {
+  "question": "What category does the above image belong to?",
+  "answer": "goose.",
+  "image": "./data/imagenet1k/train/n01855672/n01855672_13632.JPEG"
+ },
+ {
+  "question": "What category does the above image belong to?",
+  "answer": "European garden spider.",
+  "image": "./data/imagenet1k/train/n01773797/n01773797_4079.JPEG"
+ },
+ {
+  "question": "What category does the above image belong to?",
+  "answer": "Komodo dragon.",
+  "image": "./data/imagenet1k/train/n01695060/n01695060_12479.JPEG"
+ },
+ {
+  "question": "What category does the above image belong to?",
+  "answer": "kingsnake.",
+  "image": "./data/imagenet1k/train/n01734418/n01734418_10941.JPEG"
+ },
+ {
+  "question": "What category does the above image belong to?",
+  "answer": "worm snake.",
+  "image": "./data/imagenet1k/train/n01728572/n01728572_18970.JPEG"
+ },
+ {
+  "question": "What category does the above image belong to?",
+  "answer": "tick.",
+  "image": "./data/imagenet1k/train/n01776313/n01776313_21095.JPEG"
+ },
+ {
+  "question": "What category does the above image belong to?",
+  "answer": "african grey parrot.",
+  "image": "./data/imagenet1k/train/n01817953/n01817953_1700.JPEG"
+ },
+ {
+  "question": "What category does the above image belong to?",
+  "answer": "boa constrictor.",
+  "image": "./data/imagenet1k/train/n01742172/n01742172_2208.JPEG"
+ },
+ {
+  "question": "What category does the above image belong to?",
+  "answer": "desert grassland whiptail lizard.",
+  "image": "./data/imagenet1k/train/n01685808/n01685808_30.JPEG"
+ },
+ {
+  "question": "What category does the above image belong to?",
+  "answer": "wolf spider.",
+  "image": "./data/imagenet1k/train/n01775062/n01775062_6991.JPEG"
+ },
+ {
+  "question": "What category does the above image belong to?",
+  "answer": "goldfinch.",
+  "image": "./data/imagenet1k/train/n01531178/n01531178_68430.JPEG"
+ },
+ {
+  "question": "What category does the above image belong to?",
+  "answer": "vulture.",
+  "image": "./data/imagenet1k/train/n01616318/n01616318_7343.JPEG"
+ },
+ {
+  "question": "What category does the above image belong to?",
+  "answer": "Carolina anole.",
+  "image": "./data/imagenet1k/train/n01682714/n01682714_21515.JPEG"
+ },
+ {
+  "question": "What category does the above image belong to?",
+  "answer": "indigo bunting.",
+  "image": "./data/imagenet1k/train/n01537544/n01537544_2801.JPEG"
+ },
+ {
+  "question": "What category does the above image belong to?",
+  "answer": "sea snake.",
+  "image": "./data/imagenet1k/train/n01751748/n01751748_12338.JPEG"
+ },
+ {
+  "question": "What category does the above image belong to?",
+  "answer": "Saharan horned viper.",
+  "image": "./data/imagenet1k/train/n01753488/n01753488_11776.JPEG"
+ },
+ {
+  "question": "What category does the above image belong to?",
+  "answer": "chickadee.",
+  "image": "./data/imagenet1k/train/n01592084/n01592084_5652.JPEG"
+ },
+ {
+  "question": "What category does the above image belong to?",
+  "answer": "ruffed grouse.",
+  "image": "./data/imagenet1k/train/n01797886/n01797886_14947.JPEG"
+ },
+ {
+  "question": "What category does the above image belong to?",
+  "answer": "American bullfrog.",
+  "image": "./data/imagenet1k/train/n01641577/n01641577_12888.JPEG"
+ },
+ {
+  "question": "What category does the above image belong to?",
+  "answer": "Carolina anole.",
+  "image": "./data/imagenet1k/train/n01682714/n01682714_15730.JPEG"
+ },
+ {
+  "question": "What category does the above image belong to?",
+  "answer": "frilled-necked lizard.",
+  "image": "./data/imagenet1k/train/n01688243/n01688243_9919.JPEG"
+ },
+ {
+  "question": "What category does the above image belong to?",
+  "answer": "kite (bird of prey).",
+  "image": "./data/imagenet1k/train/n01608432/n01608432_6384.JPEG"
+ },
+ {
+  "question": "What category does the above image belong to?",
+  "answer": "black grouse.",
+  "image": "./data/imagenet1k/train/n01795545/n01795545_11534.JPEG"
+ },
+ {
+  "question": "What category does the above image belong to?",
+  "answer": "stingray.",
+  "image": "./data/imagenet1k/train/n01498041/n01498041_18303.JPEG"
+ },
+ {
+  "question": "What category does the above image belong to?",
+  "answer": "peafowl.",
+  "image": "./data/imagenet1k/train/n01806143/n01806143_6469.JPEG"
+ },
+ {
+  "question": "What category does the above image belong to?",
+  "answer": "barn spider.",
+  "image": "./data/imagenet1k/train/n01773549/n01773549_4354.JPEG"
+ },
+ {
+  "question": "What category does the above image belong to?",
+  "answer": "bulbul.",
+  "image": "./data/imagenet1k/train/n01560419/n01560419_17093.JPEG"
+ },
+ {
+  "question": "What category does the above image belong to?",
+  "answer": "ring-necked snake.",
+  "image": "./data/imagenet1k/train/n01728920/n01728920_8405.JPEG"
+ },
+ {
+  "question": "What category does the above image belong to?",
+  "answer": "duck.",
+  "image": "./data/imagenet1k/train/n01847000/n01847000_16230.JPEG"
+ },
+ {
+  "question": "What category does the above image belong to?",
+  "answer": "spotted salamander.",
+  "image": "./data/imagenet1k/train/n01632458/n01632458_2156.JPEG"
+ },
+ {
+  "question": "What category does the above image belong to?",
+  "answer": "hornbill.",
+  "image": "./data/imagenet1k/train/n01829413/n01829413_7724.JPEG"
+ },
+ {
+  "question": "What category does the above image belong to?",
+  "answer": "leatherback sea turtle.",
+  "image": "./data/imagenet1k/train/n01665541/n01665541_23783.JPEG"
+ },
+ {
+  "question": "What category does the above image belong to?",
+  "answer": "hummingbird.",
+  "image": "./data/imagenet1k/train/n01833805/n01833805_12680.JPEG"
+ },
+ {
+  "question": "What category does the above image belong to?",
+  "answer": "great grey owl.",
+  "image": "./data/imagenet1k/train/n01622779/n01622779_3285.JPEG"
+ },
+ {
+  "question": "What category does the above image belong to?",
+  "answer": "macaw.",
+  "image": "./data/imagenet1k/train/n01818515/n01818515_8319.JPEG"
+ },
+ {
+  "question": "What category does the above image belong to?",
+  "answer": "coucal.",
+  "image": "./data/imagenet1k/train/n01824575/n01824575_8654.JPEG"
+ },
+ {
+  "question": "What category does the above image belong to?",
+  "answer": "macaw.",
+  "image": "./data/imagenet1k/train/n01818515/n01818515_8360.JPEG"
+ },
+ {
+  "question": "What category does the above image belong to?",
+  "answer": "jacamar.",
+  "image": "./data/imagenet1k/train/n01843065/n01843065_6499.JPEG"
+ },
+ {
+  "question": "What category does the above image belong to?",
+  "answer": "tiger shark.",
+  "image": "./data/imagenet1k/train/n01491361/n01491361_5615.JPEG"
+ },
+ {
+  "question": "What category does the above image belong to?",
+  "answer": "agama.",
+  "image": "./data/imagenet1k/train/n01687978/n01687978_4142.JPEG"
+ },
+ {
+  "question": "What category does the above image belong to?",
+  "answer": "axolotl.",
+  "image": "./data/imagenet1k/train/n01632777/n01632777_15548.JPEG"
+ },
+ {
+  "question": "What category does the above image belong to?",
+  "answer": "barn spider.",
+  "image": "./data/imagenet1k/train/n01773549/n01773549_6046.JPEG"
+ },
+ {
+  "question": "What category does the above image belong to?",
+  "answer": "mud turtle.",
+  "image": "./data/imagenet1k/train/n01667114/n01667114_4618.JPEG"
+ },
+ {
+  "question": "What category does the above image belong to?",
+  "answer": "green iguana.",
+  "image": "./data/imagenet1k/train/n01677366/n01677366_16059.JPEG"
+ },
+ {
+  "question": "What category does the above image belong to?",
+  "answer": "ptarmigan.",
+  "image": "./data/imagenet1k/train/n01796340/n01796340_10075.JPEG"
+ },
+ {
+  "question": "What category does the above image belong to?",
+  "answer": "African rock python.",
+  "image": "./data/imagenet1k/train/n01744401/n01744401_16531.JPEG"
+ },
+ {
+  "question": "What category does the above image belong to?",
+  "answer": "boa constrictor.",
+  "image": "./data/imagenet1k/train/n01742172/n01742172_2677.JPEG"
+ },
+ {
+  "question": "What category does the above image belong to?",
+  "answer": "ostrich.",
+  "image": "./data/imagenet1k/train/n01518878/n01518878_3315.JPEG"
+ },
+ {
+  "question": "What category does the above image belong to?",
+  "answer": "terrapin.",
+  "image": "./data/imagenet1k/train/n01667778/n01667778_6836.JPEG"
+ },
+ {
+  "question": "What category does the above image belong to?",
+  "answer": "newt.",
+  "image": "./data/imagenet1k/train/n01631663/n01631663_3519.JPEG"
+ },
+ {
+  "question": "What category does the above image belong to?",
+  "answer": "American robin.",
+  "image": "./data/imagenet1k/train/n01558993/n01558993_11452.JPEG"
+ },
+ {
+  "question": "What category does the above image belong to?",
+  "answer": "tench.",
+  "image": "./data/imagenet1k/train/n01440764/n01440764_26659.JPEG"
+ },
+ {
+  "question": "What category does the above image belong to?",
+  "answer": "yellow garden spider.",
+  "image": "./data/imagenet1k/train/n01773157/n01773157_11422.JPEG"
+ },
+ {
+  "question": "What category does the above image belong to?",
+  "answer": "axolotl.",
+  "image": "./data/imagenet1k/train/n01632777/n01632777_291.JPEG"
+ },
+ {
+  "question": "What category does the above image belong to?",
+  "answer": "green iguana.",
+  "image": "./data/imagenet1k/train/n01677366/n01677366_6186.JPEG"
+ },
+ {
+  "question": "What category does the above image belong to?",
+  "answer": "Indian cobra.",
+  "image": "./data/imagenet1k/train/n01748264/n01748264_14692.JPEG"
+ },
+ {
+  "question": "What category does the above image belong to?",
+  "answer": "alligator lizard.",
+  "image": "./data/imagenet1k/train/n01689811/n01689811_8236.JPEG"
+ },
+ {
+  "question": "What category does the above image belong to?",
+  "answer": "American alligator.",
+  "image": "./data/imagenet1k/train/n01698640/n01698640_10864.JPEG"
+ },
+ {
+  "question": "What category does the above image belong to?",
+  "answer": "lorikeet.",
+  "image": "./data/imagenet1k/train/n01820546/n01820546_3747.JPEG"
+ },
+ {
+  "question": "What category does the above image belong to?",
+  "answer": "red-breasted merganser.",
+  "image": "./data/imagenet1k/train/n01855032/n01855032_6191.JPEG"
+ },
+ {
+  "question": "What category does the above image belong to?",
+  "answer": "Gila monster.",
+  "image": "./data/imagenet1k/train/n01692333/n01692333_7292.JPEG"
+ },
+ {
+  "question": "What category does the above image belong to?",
+  "answer": "terrapin.",
+  "image": "./data/imagenet1k/train/n01667778/n01667778_15115.JPEG"
+ },
+ {
+  "question": "What category does the above image belong to?",
+  "answer": "indigo bunting.",
+  "image": "./data/imagenet1k/train/n01537544/n01537544_14038.JPEG"
+ },
+ {
+  "question": "What category does the above image belong to?",
+  "answer": "Nile crocodile.",
+  "image": "./data/imagenet1k/train/n01697457/n01697457_1645.JPEG"
+ },
+ {
+  "question": "What category does the above image belong to?",
+  "answer": "green mamba.",
+  "image": "./data/imagenet1k/train/n01749939/n01749939_1872.JPEG"
+ },
+ {
+  "question": "What category does the above image belong to?",
+  "answer": "vine snake.",
+  "image": "./data/imagenet1k/train/n01739381/n01739381_5004.JPEG"
+ },
+ {
+  "question": "What category does the above image belong to?",
+  "answer": "brambling.",
+  "image": "./data/imagenet1k/train/n01530575/n01530575_40286.JPEG"
+ },
+ {
+  "question": "What category does the above image belong to?",
+  "answer": "harvestman.",
+  "image": "./data/imagenet1k/train/n01770081/n01770081_14888.JPEG"
+ },
+ {
+  "question": "What category does the above image belong to?",
+  "answer": "sidewinder rattlesnake.",
+  "image": "./data/imagenet1k/train/n01756291/n01756291_31564.JPEG"
+ },
+ {
+  "question": "What category does the above image belong to?",
+  "answer": "trilobite.",
+  "image": "./data/imagenet1k/train/n01768244/n01768244_6353.JPEG"
+ },
+ {
+  "question": "What category does the above image belong to?",
+  "answer": "toucan.",
+  "image": "./data/imagenet1k/train/n01843383/n01843383_7481.JPEG"
+ },
+ {
+  "question": "What category does the above image belong to?",
+  "answer": "Nile crocodile.",
+  "image": "./data/imagenet1k/train/n01697457/n01697457_14820.JPEG"
+ },
+ {
+  "question": "What category does the above image belong to?",
+  "answer": "sulphur-crested cockatoo.",
+  "image": "./data/imagenet1k/train/n01819313/n01819313_1414.JPEG"
+ },
+ {
+  "question": "What category does the above image belong to?",
+  "answer": "eastern hog-nosed snake.",
+  "image": "./data/imagenet1k/train/n01729322/n01729322_18478.JPEG"
+ },
+ {
+  "question": "What category does the above image belong to?",
+  "answer": "rooster.",
+  "image": "./data/imagenet1k/train/n01514668/n01514668_13795.JPEG"
+ },
+ {
+  "question": "What category does the above image belong to?",
+  "answer": "fire salamander.",
+  "image": "./data/imagenet1k/train/n01629819/n01629819_647.JPEG"
+ },
+ {
+  "question": "What category does the above image belong to?",
+  "answer": "eastern diamondback rattlesnake.",
+  "image": "./data/imagenet1k/train/n01755581/n01755581_4025.JPEG"
+ },
+ {
+  "question": "What category does the above image belong to?",
+  "answer": "scorpion.",
+  "image": "./data/imagenet1k/train/n01770393/n01770393_9632.JPEG"
+ },
+ {
+  "question": "What category does the above image belong to?",
+  "answer": "red-breasted merganser.",
+  "image": "./data/imagenet1k/train/n01855032/n01855032_6479.JPEG"
+ },
+ {
+  "question": "What category does the above image belong to?",
+  "answer": "frilled-necked lizard.",
+  "image": "./data/imagenet1k/train/n01688243/n01688243_7181.JPEG"
+ },
+ {
+  "question": "What category does the above image belong to?",
+  "answer": "junco.",
+  "image": "./data/imagenet1k/train/n01534433/n01534433_31778.JPEG"
+ },
+ {
+  "question": "What category does the above image belong to?",
+  "answer": "American dipper.",
+  "image": "./data/imagenet1k/train/n01601694/n01601694_17132.JPEG"
+ },
+ {
+  "question": "What category does the above image belong to?",
+  "answer": "house finch.",
+  "image": "./data/imagenet1k/train/n01532829/n01532829_20967.JPEG"
+ },
+ {
+  "question": "What category does the above image belong to?",
+  "answer": "smooth green snake.",
+  "image": "./data/imagenet1k/train/n01729977/n01729977_16977.JPEG"
+ },
+ {
+  "question": "What category does the above image belong to?",
+  "answer": "electric ray.",
+  "image": "./data/imagenet1k/train/n01496331/n01496331_2563.JPEG"
+ },
+ {
+  "question": "What category does the above image belong to?",
+  "answer": "bald eagle.",
+  "image": "./data/imagenet1k/train/n01614925/n01614925_4151.JPEG"
+ },
+ {
+  "question": "What category does the above image belong to?",
+  "answer": "kingsnake.",
+  "image": "./data/imagenet1k/train/n01734418/n01734418_16556.JPEG"
+ },
+ {
+  "question": "What category does the above image belong to?",
+  "answer": "ostrich.",
+  "image": "./data/imagenet1k/train/n01518878/n01518878_21297.JPEG"
+ },
+ {
+  "question": "What category does the above image belong to?",
+  "answer": "newt.",
+  "image": "./data/imagenet1k/train/n01631663/n01631663_9579.JPEG"
+ },
+ {
+  "question": "What category does the above image belong to?",
+  "answer": "sidewinder rattlesnake.",
+  "image": "./data/imagenet1k/train/n01756291/n01756291_28034.JPEG"
+ },
+ {
+  "question": "What category does the above image belong to?",
+  "answer": "bald eagle.",
+  "image": "./data/imagenet1k/train/n01614925/n01614925_8031.JPEG"
+ },
+ {
+  "question": "What category does the above image belong to?",
+  "answer": "black grouse.",
+  "image": "./data/imagenet1k/train/n01795545/n01795545_17836.JPEG"
+ },
+ {
+  "question": "What category does the above image belong to?",
+  "answer": "triceratops.",
+  "image": "./data/imagenet1k/train/n01704323/n01704323_508.JPEG"
+ },
+ {
+  "question": "What category does the above image belong to?",
+  "answer": "kite (bird of prey).",
+  "image": "./data/imagenet1k/train/n01608432/n01608432_16893.JPEG"
+ },
+ {
+  "question": "What category does the above image belong to?",
+  "answer": "smooth newt.",
+  "image": "./data/imagenet1k/train/n01630670/n01630670_4771.JPEG"
+ },
+ {
+  "question": "What category does the above image belong to?",
+  "answer": "green mamba.",
+  "image": "./data/imagenet1k/train/n01749939/n01749939_8359.JPEG"
+ },
+ {
+  "question": "What category does the above image belong to?",
+  "answer": "tailed frog.",
+  "image": "./data/imagenet1k/train/n01644900/n01644900_755.JPEG"
+ },
+ {
+  "question": "What category does the above image belong to?",
+  "answer": "lorikeet.",
+  "image": "./data/imagenet1k/train/n01820546/n01820546_230.JPEG"
+ },
+ {
+  "question": "What category does the above image belong to?",
+  "answer": "smooth green snake.",
+  "image": "./data/imagenet1k/train/n01729977/n01729977_10066.JPEG"
+ },
+ {
+  "question": "What category does the above image belong to?",
+  "answer": "centipede.",
+  "image": "./data/imagenet1k/train/n01784675/n01784675_13019.JPEG"
+ },
+ {
+  "question": "What category does the above image belong to?",
+  "answer": "banded gecko.",
+  "image": "./data/imagenet1k/train/n01675722/n01675722_8507.JPEG"
+ },
+ {
+  "question": "What category does the above image belong to?",
+  "answer": "American robin.",
+  "image": "./data/imagenet1k/train/n01558993/n01558993_12347.JPEG"
+ },
+ {
+  "question": "What category does the above image belong to?",
+  "answer": "duck.",
+  "image": "./data/imagenet1k/train/n01847000/n01847000_10467.JPEG"
+ },
+ {
+  "question": "What category does the above image belong to?",
+  "answer": "ptarmigan.",
+  "image": "./data/imagenet1k/train/n01796340/n01796340_10559.JPEG"
+ },
+ {
+  "question": "What category does the above image belong to?",
+  "answer": "Saharan horned viper.",
+  "image": "./data/imagenet1k/train/n01753488/n01753488_13221.JPEG"
+ },
+ {
+  "question": "What category does the above image belong to?",
+  "answer": "leatherback sea turtle.",
+  "image": "./data/imagenet1k/train/n01665541/n01665541_13310.JPEG"
+ },
+ {
+  "question": "What category does the above image belong to?",
+  "answer": "African rock python.",
+  "image": "./data/imagenet1k/train/n01744401/n01744401_2846.JPEG"
+ },
+ {
+  "question": "What category does the above image belong to?",
+  "answer": "goldfinch.",
+  "image": "./data/imagenet1k/train/n01531178/n01531178_18308.JPEG"
+ },
+ {
+  "question": "What category does the above image belong to?",
+  "answer": "tailed frog.",
+  "image": "./data/imagenet1k/train/n01644900/n01644900_1386.JPEG"
+ },
+ {
+  "question": "What category does the above image belong to?",
+  "answer": "quail.",
+  "image": "./data/imagenet1k/train/n01806567/n01806567_520.JPEG"
+ },
+ {
+  "question": "What category does the above image belong to?",
+  "answer": "tench.",
+  "image": "./data/imagenet1k/train/n01440764/n01440764_7324.JPEG"
+ },
+ {
+  "question": "What category does the above image belong to?",
+  "answer": "hen.",
+  "image": "./data/imagenet1k/train/n01514859/n01514859_7276.JPEG"
+ },
+ {
+  "question": "What category does the above image belong to?",
+  "answer": "partridge.",
+  "image": "./data/imagenet1k/train/n01807496/n01807496_8534.JPEG"
+ },
+ {
+  "question": "What category does the above image belong to?",
+  "answer": "magpie.",
+  "image": "./data/imagenet1k/train/n01582220/n01582220_2141.JPEG"
+ },
+ {
+  "question": "What category does the above image belong to?",
+  "answer": "house finch.",
+  "image": "./data/imagenet1k/train/n01532829/n01532829_9218.JPEG"
+ },
+ {
+  "question": "What category does the above image belong to?",
+  "answer": "fire salamander.",
+  "image": "./data/imagenet1k/train/n01629819/n01629819_16941.JPEG"
+ },
+ {
+  "question": "What category does the above image belong to?",
+  "answer": "tarantula.",
+  "image": "./data/imagenet1k/train/n01774750/n01774750_7516.JPEG"
+ },
+ {
+  "question": "What category does the above image belong to?",
+  "answer": "American dipper.",
+  "image": "./data/imagenet1k/train/n01601694/n01601694_10357.JPEG"
+ },
+ {
+  "question": "What category does the above image belong to?",
+  "answer": "mud turtle.",
+  "image": "./data/imagenet1k/train/n01667114/n01667114_1395.JPEG"
+ },
+ {
+  "question": "What category does the above image belong to?",
+  "answer": "bee eater.",
+  "image": "./data/imagenet1k/train/n01828970/n01828970_26567.JPEG"
+ },
+ {
+  "question": "What category does the above image belong to?",
+  "answer": "quail.",
+  "image": "./data/imagenet1k/train/n01806567/n01806567_5454.JPEG"
+ },
+ {
+  "question": "What category does the above image belong to?",
+  "answer": "jay.",
+  "image": "./data/imagenet1k/train/n01580077/n01580077_31094.JPEG"
+ },
+ {
+  "question": "What category does the above image belong to?",
+  "answer": "box turtle.",
+  "image": "./data/imagenet1k/train/n01669191/n01669191_11313.JPEG"
+ },
+ {
+  "question": "What category does the above image belong to?",
+  "answer": "trilobite.",
+  "image": "./data/imagenet1k/train/n01768244/n01768244_517.JPEG"
+ },
+ {
+  "question": "What category does the above image belong to?",
+  "answer": "southern black widow.",
+  "image": "./data/imagenet1k/train/n01774384/n01774384_13825.JPEG"
+ },
+ {
+  "question": "What category does the above image belong to?",
+  "answer": "centipede.",
+  "image": "./data/imagenet1k/train/n01784675/n01784675_13010.JPEG"
+ },
+ {
+  "question": "What category does the above image belong to?",
+  "answer": "vine snake.",
+  "image": "./data/imagenet1k/train/n01739381/n01739381_1005.JPEG"
+ },
+ {
+  "question": "What category does the above image belong to?",
+  "answer": "Gila monster.",
+  "image": "./data/imagenet1k/train/n01692333/n01692333_826.JPEG"
+ },
+ {
+  "question": "What category does the above image belong to?",
+  "answer": "prairie grouse.",
+  "image": "./data/imagenet1k/train/n01798484/n01798484_9959.JPEG"
+ },
+ {
+  "question": "What category does the above image belong to?",
+  "answer": "water snake.",
+  "image": "./data/imagenet1k/train/n01737021/n01737021_4290.JPEG"
+ },
+ {
+  "question": "What category does the above image belong to?",
+  "answer": "bee eater.",
+  "image": "./data/imagenet1k/train/n01828970/n01828970_5669.JPEG"
+ },
+ {
+  "question": "What category does the above image belong to?",
+  "answer": "tree frog.",
+  "image": "./data/imagenet1k/train/n01644373/n01644373_7128.JPEG"
+ },
+ {
+  "question": "What category does the above image belong to?",
+  "answer": "chickadee.",
+  "image": "./data/imagenet1k/train/n01592084/n01592084_6359.JPEG"
+ },
+ {
+  "question": "What category does the above image belong to?",
+  "answer": "water snake.",
+  "image": "./data/imagenet1k/train/n01737021/n01737021_10767.JPEG"
+ },
+ {
+  "question": "What category does the above image belong to?",
+  "answer": "garter snake.",
+  "image": "./data/imagenet1k/train/n01735189/n01735189_11956.JPEG"
+ },
+ {
+  "question": "What category does the above image belong to?",
+  "answer": "bulbul.",
+  "image": "./data/imagenet1k/train/n01560419/n01560419_5768.JPEG"
+ },
+ {
+  "question": "What category does the above image belong to?",
+  "answer": "garter snake.",
+  "image": "./data/imagenet1k/train/n01735189/n01735189_704.JPEG"
+ },
+ {
+  "question": "What category does the above image belong to?",
+  "answer": "southern black widow.",
+  "image": "./data/imagenet1k/train/n01774384/n01774384_12783.JPEG"
+ },
+ {
+  "question": "What category does the above image belong to?",
+  "answer": "chameleon.",
+  "image": "./data/imagenet1k/train/n01694178/n01694178_4867.JPEG"
+ },
+ {
+  "question": "What category does the above image belong to?",
+  "answer": "triceratops.",
+  "image": "./data/imagenet1k/train/n01704323/n01704323_3656.JPEG"
+ },
+ {
+  "question": "What category does the above image belong to?",
+  "answer": "American alligator.",
+  "image": "./data/imagenet1k/train/n01698640/n01698640_1636.JPEG"
+ },
+ {
+  "question": "What category does the above image belong to?",
+  "answer": "agama.",
+  "image": "./data/imagenet1k/train/n01687978/n01687978_7860.JPEG"
+ },
+ {
+  "question": "What category does the above image belong to?",
+  "answer": "harvestman.",
+  "image": "./data/imagenet1k/train/n01770081/n01770081_1743.JPEG"
+ },
+ {
+  "question": "What category does the above image belong to?",
+  "answer": "Indian cobra.",
+  "image": "./data/imagenet1k/train/n01748264/n01748264_12085.JPEG"
+ },
+ {
+  "question": "What category does the above image belong to?",
+  "answer": "ring-necked snake.",
+  "image": "./data/imagenet1k/train/n01728920/n01728920_14967.JPEG"
+ },
+ {
+  "question": "What category does the above image belong to?",
+  "answer": "smooth newt.",
+  "image": "./data/imagenet1k/train/n01630670/n01630670_3699.JPEG"
+ },
+ {
+  "question": "What category does the above image belong to?",
+  "answer": "jay.",
+  "image": "./data/imagenet1k/train/n01580077/n01580077_3185.JPEG"
+ },
+ {
+  "question": "What category does the above image belong to?",
+  "answer": "prairie grouse.",
+  "image": "./data/imagenet1k/train/n01798484/n01798484_14756.JPEG"
+ },
+ {
+  "question": "What category does the above image belong to?",
+  "answer": "eastern diamondback rattlesnake.",
+  "image": "./data/imagenet1k/train/n01755581/n01755581_6252.JPEG"
+ },
+ {
+  "question": "What category does the above image belong to?",
+  "answer": "goldfish.",
+  "image": "./data/imagenet1k/train/n01443537/n01443537_19391.JPEG"
+ },
+ {
+  "question": "What category does the above image belong to?",
+  "answer": "hammerhead shark.",
+  "image": "./data/imagenet1k/train/n01494475/n01494475_812.JPEG"
+ },
+ {
+  "question": "What category does the above image belong to?",
+  "answer": "toucan.",
+  "image": "./data/imagenet1k/train/n01843383/n01843383_9743.JPEG"
+ }
+]
