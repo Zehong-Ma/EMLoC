@@ -5,24 +5,25 @@
               <a href="https://liewfeng.github.io" target="_blank">Zehong Ma</a><sup>1</sup><sup></sup>,&nbsp;
             </span>
             <span class="author-block">
-              <a href="https://scholar.google.com.hk/citations?user=ZO3OQ-8AAAAJ" target="_blank">Shiliang Zhang</a><sup>1</sup><sup>‡</sup>,&nbsp;
+              <a href="https://scholar.google.com.hk/citations?user=ZO3OQ-8AAAAJ" target="_blank">Shiliang Zhang</a><sup>1</sup><sup>*</sup>,&nbsp;
             </span>
             <span class="author-block">
               <a href="https://jeffwang987.github.io" target="_blank">Longhui Wei</a><sup>2</sup>,&nbsp;
             </span>
             <span class="author-block">
-              <a href="https://weilllllls.github.io" target="_blank">Qi Tian</a><sup>2</sup>,&nbsp;
+              <a href="https://weilllllls.github.io" target="_blank">Qi Tian</a><sup>2</sup> <sup>3</sup>,&nbsp;
           </div>
 
 <div class="is-size-5 publication-authors", align="center">
             <span class="author-block"><sup>1</sup>Peking University,&nbsp;</span>
-            <span class="author-block"><sup>2</sup>Huawei Inc.</span>
+            <span class="author-block"><sup>2</sup>Huawei Inc.,</span>
+            <span class="author-block"><sup>3</sup>Guangdong Laboratory of Artificial Intelligence and Digital Economy (SZ).</span>
             <br>
           </div>
 
 
 <div class="is-size-5 publication-authors", align="center">
-            (‡ CorresCorresponding author.)
+            (* CorresCorresponding author.)
           </div>
 
 <!-- <h5 align="center"> -->
