@@ -1,0 +1,5 @@
+group: textvqa
+task:
+- textvqa_val
+- textvqa_val_fewshot
+- textvqa_test

@@ -1,0 +1,15 @@
+group: mathverse
+task:
+  - mathverse_testmini
+  - mathverse_testmini_text_only
+  - mathverse_testmini_text_lite
+  - mathverse_testmini_text_dominant
+  - mathverse_testmini_vision_intensive
+  - mathverse_testmini_vision_dominant
+  - mathverse_testmini_vision_only
+  - mathverse_testmini_fewshot
+metadata:
+  version: 0.0
+  gpt_eval_model_name: "gpt-4o-mini"
+  trunk_response: 30
+  quick_match: false

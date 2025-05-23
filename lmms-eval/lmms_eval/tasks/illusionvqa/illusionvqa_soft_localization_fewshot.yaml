@@ -1,0 +1,3 @@
+include: illusionvqa.yaml
+task: illusionvqa_soft_localization_fewshot
+dataset_path: csebuetnlp/illusionVQA-Soft-Localization
