@@ -74,7 +74,7 @@ class Qwen2_VL_Custom(lmms):
         else:
             self._device = torch.device(f"cuda:{accelerator.local_process_index}")
             self.device_map = f"cuda:{accelerator.local_process_index}"
-
+        
         if use_flash_attention_2:
             self._model = Qwen2VLForConditionalGeneration.from_pretrained(
                 pretrained,
@@ -85,6 +85,7 @@ class Qwen2_VL_Custom(lmms):
         else:
             self._model = Qwen2VLForConditionalGeneration.from_pretrained(pretrained, torch_dtype=torch.bfloat16, 
                                                                           attn_implementation="sdpa",
+                                                                        #   cache_dir="/nfs/mzh/LLM/pretrained_models/",
                                                                           device_map=self.device_map).eval()
         self.processor = AutoProcessor.from_pretrained(pretrained, max_pixels=max_pixels, min_pixels=min_pixels)
         self.max_pixels = max_pixels

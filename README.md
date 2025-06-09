@@ -2,22 +2,23 @@
 
 <div class="is-size-5 publication-authors", align="center",>
             <span class="author-block">
-              <a href="https://liewfeng.github.io" target="_blank">Zehong Ma</a><sup>1</sup><sup></sup>,&nbsp;
+              <a href="https://zehong-ma.github.io" target="_blank">Zehong Ma</a><sup>1</sup><sup></sup>,&nbsp;
             </span>
             <span class="author-block">
-              <a href="https://scholar.google.com.hk/citations?user=ZO3OQ-8AAAAJ" target="_blank">Shiliang Zhang</a><sup>1</sup><sup>*</sup>,&nbsp;
+              <a href="https://www.pkuvmc.com/" target="_blank">Shiliang Zhang</a><sup>1,3</sup><sup>*</sup>,&nbsp;
             </span>
             <span class="author-block">
-              <a href="https://jeffwang987.github.io" target="_blank">Longhui Wei</a><sup>2</sup>,&nbsp;
+              <a href="https://joinwei-pku.github.io/longhuiwei.github.io/" target="_blank">Longhui Wei</a><sup>2</sup>,&nbsp;
             </span>
             <span class="author-block">
-              <a href="https://weilllllls.github.io" target="_blank">Qi Tian</a><sup>2</sup> <sup>3</sup>,&nbsp;
+              <a href="https://www.qitian1987.com/" target="_blank">Qi Tian</a><sup>2</sup> <sup>4</sup>,&nbsp;
           </div>
 
 <div class="is-size-5 publication-authors", align="center">
             <span class="author-block"><sup>1</sup>Peking University,&nbsp;</span>
             <span class="author-block"><sup>2</sup>Huawei Inc.,</span>
-            <span class="author-block"><sup>3</sup>Guangdong Laboratory of Artificial Intelligence and Digital Economy (SZ).</span>
+            <span class="author-block"><sup>3</sup>Peng Cheng Laboratory, Shenzhen, China,</span>
+            <span class="author-block"><sup>4</sup>Guangdong Laboratory of Artificial Intelligence and Digital Economy (SZ).</span>
             <br>
           </div>
 
@@ -26,15 +27,14 @@
             (* CorresCorresponding author.)
           </div>
 
-<!-- <h5 align="center"> -->
-<!-- 
-[![hf_paper](https://img.shields.io/badge/🤗-Paper%20In%20HF-red.svg)](https://huggingface.co/papers/2411.19108)
-[![arXiv](https://img.shields.io/badge/Arxiv-2411.19108-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2411.19108) 
-[![Home Page](https://img.shields.io/badge/Project-<Website>-blue.svg)](https://liewfeng.github.io/TeaCache/) 
+<h5 align="center">
+ 
+<!-- [![hf_paper](https://img.shields.io/badge/🤗-Paper%20In%20HF-red.svg)](https://huggingface.co/papers/2505.19812) -->
+[![arXiv](https://img.shields.io/badge/Arxiv-2411.19108-b31b1b.svg?logo=arXiv)](https://www.arxiv.org/pdf/2505.19812) 
 [![License](https://img.shields.io/badge/License-Apache%202.0-yellow)](./LICENSE) 
-[![github](https://img.shields.io/github/stars/LiewFeng/TeaCache.svg?style=social)](https://github.com/LiewFeng/TeaCache/) -->
+[![github](https://img.shields.io/github/stars/Zehong-Ma/EMLoC.svg?style=social)](https://github.com/Zehong-Ma/EMLoC/) 
 
-<!-- </h5> -->
+</h5>
 
 
 <!-- ![visualization](./assets/tisser.png) -->
@@ -49,7 +49,7 @@ We introduce Efficient Multi-Modal Long Context Learning (EMLoC), a novel traini
   
 ## 🎉 Supported Models 
 **Multi-modal Large Language Models**
-- [Qwen2-VL](https://github.com/QwenLM/Qwen2.5-VL)
+- [Qwen2-VL](https://github.com/QwenLM/Qwen2.5-VL) (The version of Monkey Patch is still in preparation)
 - Other models will be supported soon!
 <!-- - [InternVL3](https://github.com/OpenGVLab/InternVL/tree/main) -->
 
